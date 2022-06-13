@@ -1,0 +1,14 @@
+{
+  "resourceName": "amazon10db",
+  "policyUUID": "95ba6dc7",
+  "bucketName": "amazon10bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

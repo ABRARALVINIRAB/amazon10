@@ -44,5 +44,12 @@
         }
       }
     }
+  },
+  "storage": {
+    "amazon10db": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
   }
 }
