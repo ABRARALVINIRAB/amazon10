@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amazon10",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\programming hero\\restart\\amazon10\\amplify\\backend\\api\\amazon10\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-06-20T10:54:05.487Z",
+      "keyDescription": "demo10"
+    }
+  }
+}
